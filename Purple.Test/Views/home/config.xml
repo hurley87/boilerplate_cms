@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<page>
+  <regions>
+    <region d3p1:type="HtmlRegion" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+      <internalId>htmlcontent</internalId>
+      <regionTemplateId>5e004de9-520c-4e0e-9cb3-54be16cb47a7</regionTemplateId>
+      <name>Html Content</name>
+      <type>Html</type>
+      <isList>false</isList>
+      <body>&lt;p&gt;Hello World&lt;/p&gt;</body>
+    </region>
+  </regions>
+  <filters />
+  <contentRegions />
+  <contents />
+  <StartDate d2p1:nil="true" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance" />
+  <EndDate d2p1:nil="true" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance" />
+  <lastApproved>0001-01-01T00:00:00</lastApproved>
+  <workflowState>DRAFT</workflowState>
+  <Id>3315f22b-672a-4374-adab-6ee2e06249d8</Id>
+  <templateId>7f731d86-6aa4-4fa7-b7ab-b69c6af65ebe</templateId>
+  <useWorkflow>false</useWorkflow>
+  <templateName>Home</templateName>
+  <sequenceNumber>1</sequenceNumber>
+  <title>Home</title>
+  <navigationTitle d2p1:nil="true" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance" />
+  <pageIsHidden>false</pageIsHidden>
+  <IsTemplate>false</IsTemplate>
+  <controller>HomeController</controller>
+  <Path>/home/</Path>
+  <created>2014-06-03T17:26:37</created>
+  <updated>2014-06-03T17:26:57.4316571-04:00</updated>
+  <published>0001-01-01T00:00:00</published>
+  <lastPublished>0001-01-01T00:00:00</lastPublished>
+  <lastPublishedBy>Never published</lastPublishedBy>
+  <lastModified>2014-06-03T17:26:57.3386664-04:00</lastModified>
+  <createdBy>aduong</createdBy>
+  <updatedBy>aduong</updatedBy>
+  <tags />
+</page>

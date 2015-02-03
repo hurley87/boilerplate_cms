@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<definition>
+  <templates>
+    <template id="7f731d86-6aa4-4fa7-b7ab-b69c6af65ebe" created="2014-06-03T17:26:36.9267078-04:00" createdBy="aduong" name="Home" islocked="false" excludefrompagetypes="true">
+      <IsContentOnly>false</IsContentOnly>
+      <IsPageTemplate>false</IsPageTemplate>
+      <regions>
+        <region id="00000000-0000-0000-0000-000000000000" created="2014-06-03T17:26:36.9537051-04:00" createdBy="aduong" templateId="5e004de9-520c-4e0e-9cb3-54be16cb47a7" internalId="htmlcontent" sequenceNumber="0" name="Html Content" type="Html" isList="false" isPrimaryKey="false" />
+      </regions>
+    </template>
+  </templates>
+</definition>
